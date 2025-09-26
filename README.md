@@ -1,0 +1,2 @@
+# Student Innovation in SIH 2025
+India witnessed an alarming 18% surge in disaster related deaths, rising from 2,616 in 2023-24 to 3,080 in 2024-25 which is the highest in history. This increase is largely due to delays in detecting and rescuing trapped individuals.[1] We have built a unmanned drone which scan the whole area creating a 3D map of the entire disaster zone and return to the command center.
